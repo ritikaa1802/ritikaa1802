@@ -1,4 +1,4 @@
-# Hi there, I'm Rits! 👋  
+# Hi there, I'm Ritika! 👋  
 
 🚀 Frontend Developer | 🌐 Web Development Learner | 🎥 Content Creator  
 
