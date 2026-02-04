@@ -1,53 +1,49 @@
 # Hi there, I'm Ritika! 👋  
 
-🚀 Frontend Developer | 🌐 Web Development Learner | 🎥 Content Creator  
+Frontend Developer | Web Development Enthusiast | Content Creator
 
----
-
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J4dW4zNDl1cng1bWllZ3kxZzY5Yms3eHZqa2JnaHFjeW1raXFteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rxP4Cg6XTdIgTLFRXN/giphy.gif" width="180"/>
 ## About Me  
 
-I'm a passionate **Frontend Developer** who loves building clean, interactive, and user-friendly web interfaces.  
-Currently learning full **Web Development** and exploring modern UI/UX concepts to create unique digital experiences.
+-  Currently learning: **Advanced JavaScript, Web Development**  
+-  Working on: **Frontend projects, creative web apps, and portfolio websites**  
+-  Creating **tech content** while **documenting my web development journey**  
+- You can explore my projects on [GitHub](https://github.com/ritikaa1802)  
 
-I also enjoy creating content related to tech, coding, and productivity to share knowledge and grow with the community.
+📧 Reach me: ritika.180216@gmail.com  
 
-- 🌱 Currently learning: **Advanced JavaScript, Web Development, UI/UX Design**  
-- 🔭 Working on: **Frontend projects, creative web apps, and portfolio websites**  
-- 🌍 Languages: **HTML, CSS, JavaScript (learning more!)**  
-- 📫 Reach me on: **GitHub / LinkedIn / Social Media**  
-- ⚡ Fun fact: I love turning simple designs into interactive experiences  
+- Fun fact: I love turning aesthetics into code.
 
----
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNuZzJtcHIzN2lhamx4ejR6bGcxbDBxazBobmd4bW9pYnB2ejBlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wBb49opfELu6xrcpri/giphy.gif" width="180"/>
+  
+## 🧠 Languages & Tools  
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
-## My Skills 🧠  
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
 
----
 
-## Content Creation 🎥  
+## Connect with me  
 
-I create content about:  
-
-✔️ Web Development  
-✔️ Learning Journey  
-
-Sharing knowledge and growing every day 🚀  
-
----
-
-## Get in Touch 📬  
+<p>
+  <a href="https://www.linkedin.com/in/ritika-andhale021205" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
   
-- 💼 LinkedIn: (https://www.linkedin.com/in/ritika-andhale021205)  
-- 📱 Social Media: (https://www.instagram.com/ritikaahhhhh?igsh=encxdXBqemNtN2kz)  
+  <a href="https://www.instagram.com/ritikaahhhhh" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
+  </a>
 
----
+  <a href="mailto:ritika.180216@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40"/>
+  </a>
+</p>
 
-⭐ Feel free to check out my repositories and connect with me!
+
