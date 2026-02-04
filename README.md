@@ -1,4 +1,4 @@
-# Hi there, I'm Ritika! 👋  
+# Hi there, I'm Ritika! 
 
 Frontend Developer | Web Development Enthusiast | Content Creator
 
@@ -41,9 +41,7 @@ Frontend Developer | Web Development Enthusiast | Content Creator
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
   </a>
 
-  <a href="mailto:ritika.180216@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40"/>
-  </a>
+
 </p>
 
 
