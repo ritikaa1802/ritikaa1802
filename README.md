@@ -18,6 +18,9 @@ I also enjoy creating content related to tech, coding, and productivity to share
 - ⚡ Fun fact: I love turning simple designs into interactive experiences  
 
 ---
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNuZzJtcHIzN2lhamx4ejR6bGcxbDBxazBobmd4bW9pYnB2ejBlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wBb49opfELu6xrcpri/giphy.gif" width="180"/>
+
+</p>
 
 ## My Skills 🧠  
 
