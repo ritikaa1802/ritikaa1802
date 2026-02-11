@@ -1,6 +1,6 @@
 # Hi there, I'm Ritika! 
 
-Frontend Developer | Open Source Contrbutor | Web Development Enthusiast | Content Creator
+Frontend Developer | Open Source Contributor | Web Development Enthusiast | Content Creator
 
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J4dW4zNDl1cng1bWllZ3kxZzY5Yms3eHZqa2JnaHFjeW1raXFteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rxP4Cg6XTdIgTLFRXN/giphy.gif" width="180"/>
 ## About Me  
