@@ -37,7 +37,7 @@ Frontend Developer | Open Source Contributor | Web Development Enthusiast | Cont
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   
-  <a href="https://www.instagram.com/ritikaahhhhh" target="_blank">
+  <a href="https://www.instagram.com/ritikadrinkscoffee" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
   </a>
 
